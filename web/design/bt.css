@@ -1,0 +1,9 @@
+table.btfield {
+    font-family: courier;
+    border-collapse: collapse;
+}
+
+table.btfield td {
+    width: 1em;
+    height: 1.4em;
+}
